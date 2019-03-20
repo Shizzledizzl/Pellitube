@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17f0e7ffadf93b92199809fcfeb8bd8c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\763c36122a1f490526cdfdf1086cebdf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\43591466b35da214ca8887bf4692d784\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\f0d294ef59da9153905d2e749e36a541\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2d84807c01300045bc3ef0f7745625ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\d0693f3c8295ab23b5dd8c4aa523b11b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7a677ee8496d62ee6bf6279e1836e8b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\cee201f01d7bdbd86718683b0dc082bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\dfd13075c39d5aabb0094af55c339252\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3312eabd194b6e83c82b0dffa308eabe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\ba81bd005479d3efdd057e31cb6c5460\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\475cb3fd1fddd0bd5b0e6b501dcbbc54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\08458948444d53e1192cb9b541c996ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e169195fbe5bd603088f34694eb336a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\03384afd98e026badaad0e0f11b9f0e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f2a8ba0783de831c39cd2a494a805139\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\26797d88780da58cb67f36c68a90712b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5a155afd220b9d98db02f53db743f94a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d5dabb3495cbfc6adcae8f766599b3f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f285bcf9e350e916b7d0b5560c4c37a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\0b6b21d3d7813fe909f812ccf514e578\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\c97aa1f9add1cceb9df871e5316a828a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\dadcef729d26c6aceae441c64c98e21d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\edb778817d3a3eb4f801f51a0c1cb0d8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\92f94b4ca1f6b09be944b103d8dbe98e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7026e77de5c79874897a0b26e1f1458a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c674120c22dbe315d7bba520fe86a13f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:9:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\763c36122a1f490526cdfdf1086cebdf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\763c36122a1f490526cdfdf1086cebdf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f2a8ba0783de831c39cd2a494a805139\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f2a8ba0783de831c39cd2a494a805139\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\26797d88780da58cb67f36c68a90712b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\26797d88780da58cb67f36c68a90712b\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f2a8ba0783de831c39cd2a494a805139\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:15:9-40
+activity#pellicaan.nl.pellitube.YoutubeActivity
+ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:16:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:20:27-74
+activity#pellicaan.nl.pellitube.MainActivity
+ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml:23:19-47
+uses-sdk
+INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17f0e7ffadf93b92199809fcfeb8bd8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\17f0e7ffadf93b92199809fcfeb8bd8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\763c36122a1f490526cdfdf1086cebdf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\763c36122a1f490526cdfdf1086cebdf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\43591466b35da214ca8887bf4692d784\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\43591466b35da214ca8887bf4692d784\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\f0d294ef59da9153905d2e749e36a541\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\f0d294ef59da9153905d2e749e36a541\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2d84807c01300045bc3ef0f7745625ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2d84807c01300045bc3ef0f7745625ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\d0693f3c8295ab23b5dd8c4aa523b11b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\d0693f3c8295ab23b5dd8c4aa523b11b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7a677ee8496d62ee6bf6279e1836e8b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7a677ee8496d62ee6bf6279e1836e8b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\cee201f01d7bdbd86718683b0dc082bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\cee201f01d7bdbd86718683b0dc082bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\dfd13075c39d5aabb0094af55c339252\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\dfd13075c39d5aabb0094af55c339252\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3312eabd194b6e83c82b0dffa308eabe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3312eabd194b6e83c82b0dffa308eabe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\ba81bd005479d3efdd057e31cb6c5460\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\ba81bd005479d3efdd057e31cb6c5460\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\475cb3fd1fddd0bd5b0e6b501dcbbc54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\475cb3fd1fddd0bd5b0e6b501dcbbc54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\08458948444d53e1192cb9b541c996ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\08458948444d53e1192cb9b541c996ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e169195fbe5bd603088f34694eb336a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e169195fbe5bd603088f34694eb336a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\03384afd98e026badaad0e0f11b9f0e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\03384afd98e026badaad0e0f11b9f0e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f2a8ba0783de831c39cd2a494a805139\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f2a8ba0783de831c39cd2a494a805139\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\26797d88780da58cb67f36c68a90712b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\26797d88780da58cb67f36c68a90712b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5a155afd220b9d98db02f53db743f94a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5a155afd220b9d98db02f53db743f94a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d5dabb3495cbfc6adcae8f766599b3f2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d5dabb3495cbfc6adcae8f766599b3f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f285bcf9e350e916b7d0b5560c4c37a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f285bcf9e350e916b7d0b5560c4c37a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\0b6b21d3d7813fe909f812ccf514e578\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\0b6b21d3d7813fe909f812ccf514e578\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\c97aa1f9add1cceb9df871e5316a828a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\c97aa1f9add1cceb9df871e5316a828a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\dadcef729d26c6aceae441c64c98e21d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\dadcef729d26c6aceae441c64c98e21d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\edb778817d3a3eb4f801f51a0c1cb0d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\edb778817d3a3eb4f801f51a0c1cb0d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\92f94b4ca1f6b09be944b103d8dbe98e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\92f94b4ca1f6b09be944b103d8dbe98e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7026e77de5c79874897a0b26e1f1458a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7026e77de5c79874897a0b26e1f1458a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c674120c22dbe315d7bba520fe86a13f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Elroy Pellicaan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c674120c22dbe315d7bba520fe86a13f\AndroidManifest.xml:20:5-44
+INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidProjects\Pellitube\app\src\main\AndroidManifest.xml

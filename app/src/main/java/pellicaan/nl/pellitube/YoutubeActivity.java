@@ -46,8 +46,8 @@ public class YoutubeActivity extends YouTubeBaseActivity
         Log.d(TAG, "onInitializationSucces provider is " + provider.getClass().toString());
         Toast.makeText(this, "Initialized Pellitube Player succesfully", Toast.LENGTH_LONG).show();
 
-        youTubePlayer.setPlaybackEventListener(playbackEventListener);
-        youTubePlayer.setPlayerStateChangeListener(playerStateChangeListener);
+        youTubePlayer.setPlaybackEventListener(PlaybackEventListener);
+        youTubePlayer.setPlayerStateChangeListener(PlayerStateChangeListener);
 
         if(!wasRestored) {
             youTubePlayer.cueVideo(YOUTUBE_VIDEO_ID);

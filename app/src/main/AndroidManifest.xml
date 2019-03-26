@@ -3,7 +3,7 @@
     package="pellicaan.nl.pellitube">
 
 
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
 
 
     <application
@@ -13,19 +13,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".YoutubeActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+        <activity
+            android:name=".YoutubeActivity"
+            android:label="Pellitube Player"></activity>
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".StandaloneActivity"
+            android:label="Standalone Activity">
+
         </activity>
     </application>
 

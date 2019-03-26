@@ -20,19 +20,19 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="pellicaan.nl.pellitube.YoutubeActivity" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+        <activity
+            android:name="pellicaan.nl.pellitube.YoutubeActivity"
+            android:label="Pellitube Player" />
         <activity android:name="pellicaan.nl.pellitube.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="pellicaan.nl.pellitube.StandaloneActivity"
+            android:label="Standalone Activity" >
         </activity>
 
         <provider
